@@ -1,5 +1,8 @@
+# Data_Mining-Group9-Diabetes-Risk-Screening-Optimization
 
-# Optimizing Diabetes Risk Screening for Capacity-Constrained Healthcare Systems Using Boosting Models
+Capacity-aware diabetes risk screening with XGBoost, comparing global and capacity-specific optimization. Includes an interpretable Streamlit research prototype, BRFSS 2015 model development, and offline BRFSS 2025 temporal evaluation. Not for clinical diagnosis.
+
+## Optimizing Diabetes Risk Screening for Capacity-Constrained Healthcare Systems Using Boosting Models
 
 **National Economics University (NEU)**  
 College of Technology · Faculty of Data Science and Artificial Intelligence
